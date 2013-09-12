@@ -1,15 +1,8 @@
-# twilio
+# Twilio
 
-Clojure wrapper around the Twilio Java api.
+Minimal clojure wrapper around the Twilio Java sdk.
 
-
-## Releases and Dependency Information
-
-* Releases are published to TODO_LINK
-
-* Latest stable release is TODO_LINK
-
-* All released versions TODO_LINK
+This lib is my own wrapping functions for conveniently accessing the call and sms parts of the sdk.
 
 [Leiningen] dependency information:
 
